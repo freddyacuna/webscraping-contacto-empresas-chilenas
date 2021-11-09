@@ -1,4 +1,4 @@
-# Obejtivo
+# Objetivo
 este proyecto consiste en extraer información de contacto (nombre, telefono, mail de contacto) de empresas que se encuentran registradas en [SII](https://www.sii.cl/). Se utiliza python para su ejecución.
 
 El código automatiza la busqueda masiva de la información. Los pasos que deberá tener la busqueda son:
@@ -17,14 +17,10 @@ El código automatiza la busqueda masiva de la información. Los pasos que deber
 
 Por otro lado, será interesante replicar este mismo procedimiento usando R. Los paquetes relevantes para su aplicación son:
 
-
-
 *   Realizar web scraping mediante el paquete [rvest] y [polite].
 *   Acceder y modificar información en planillas de Google Sheets mediante el [googlesheets4].
-*   Capturar información y tweets en Twitter mediante el paquete [rtweet]
 *   Limpiar y modificar caracteres mediante expresiones regulares ([stringr])
-*   Programación funcional para manejar sobre estructuras de datos como JSON o listas mediante funciones del paquete [purrr]
 
-Si le interesa seguir este camino, no dude en contactarse con: 
+Si le interesa seguir cualquiera de los dos caminos, no dude en contactarme: 
 1. [Github Freddy Acuña](https://github.com/freddyacuna)
 2. [Linkedin Freddy Acuña](https://www.linkedin.com/in/freddyacuna/)
