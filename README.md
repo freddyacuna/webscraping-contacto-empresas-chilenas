@@ -1,4 +1,5 @@
-Objetivos: este proyecto consiste en extraer información de contacto (nombre, telefono, mail de contacto) de empresas que se encuentran registradas en SII. Se utiliza python para su ejecución.
+# Obejtivo
+este proyecto consiste en extraer información de contacto (nombre, telefono, mail de contacto) de empresas que se encuentran registradas en [SII](https://www.sii.cl/). Se utiliza python para su ejecución.
 
 El código automatiza la busqueda masiva de la información. Los pasos que deberá tener la busqueda son:
 
